@@ -30,4 +30,4 @@
 
 **Стек:** `Python`, `pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Jupyter Notebook`
 
-[Открыть проект →](./startup-venture-funding/)
+[Открыть проект →](./startup_funding_analysis/)
